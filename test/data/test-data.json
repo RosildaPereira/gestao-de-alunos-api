@@ -1,0 +1,19 @@
+{
+  "admin": {
+    "email": "admin@escola.com",
+    "senha": "admin123"
+  },
+  "aluno": {
+    "id": "aluno-ana-souza",
+    "email": "ana.souza@example.com",
+    "senha": "123456"
+  },
+  "alunoDiferente": {
+    "id": "aluno-bruno-lima",
+    "email": "bruno.lima@example.com",
+    "senha": "123456"
+  },
+  "disciplina": {
+    "id": "disciplina-matematica"
+  }
+}
